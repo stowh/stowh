@@ -39,4 +39,4 @@ Contributor to my own OSS projects and open to collaboration.
 ---
 
 📬 Contact me:
-[Telegram](https://t.me/stowhh)
+[Telegram](https://t.me/stowhh) [Discord](https://discord.com/users/855022756366254090)
