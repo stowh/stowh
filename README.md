@@ -25,15 +25,15 @@ Contributor to my own OSS projects and open to collaboration.
 ---
 
 #### Featured projects
-* [**ChatRoom**](https://github.com/dockgo-dev/anonchat) - full-featured anonymous chat system with microservices architecture.                                                                                            *Go, React, WebSocekt PostgreSQL, JWT, Docker*
+* [**ChatRoom**](https://github.com/stowh/chatroom) - full-featured anonymous chat system with microservices architecture.                                                                                            *Go, React, WebSocekt PostgreSQL, JWT, Docker*
 
-* [**Auth (REST)**](https://github.com/dockgo-dev/authorization) / [**Auth (gRPC)**](https://github.com/gox7/authorization) — authentication and session control with JWT.
+* [**Auth (REST)**](https://github.com/stowh/authorization) / [**Auth (gRPC)**](https://github.com/gox7/authorization) — authentication and session control with JWT.
   *Go, Gin/gRPC, PostgreSQL, JWT, Docker.*
 
-* [**Vega**](https://github.com/dockgo-dev/vega) — lightweight HTTP router built over Go’s standard library.
+* [**Vega**](https://github.com/stowh/vega) — lightweight HTTP router built over Go’s standard library.
   *Go, HTTP.*
 
-* [**Unix**](https://github.com/dockgo-dev/unix) — low-level system interaction library using syscalls.
+* [**Unix**](https://github.com/stowh/unix) — low-level system interaction library using syscalls.
   *Go, Syscall.*
 
 ---
