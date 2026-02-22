@@ -15,6 +15,7 @@ Contributor to my own OSS projects and open to collaboration.
 ![Redis](https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=blue)
 ![RabbitMq](https://img.shields.io/badge/RabbitMq-000000?style=for-the-badge&logo=apachekafka&logoColor=blue)
 ![gRPC](https://img.shields.io/badge/gRPC-000000?style=for-the-badge&logo=grpc&logoColor=blue)
+![Rest](https://img.shields.io/badge/Rest-000000?style=for-the-badge&logo=grpc&logoColor=blue)
 ![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=blue)
 ![Swagger](https://img.shields.io/badge/Swagger-000000?style=for-the-badge&logo=swagger&logoColor=blue)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=blue)
